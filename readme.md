@@ -1,7 +1,7 @@
-Hi 👋 My name is Bintang Wijaya
+Hi 👋 My name is Bintang Wijaya ⚡️⚡️⚡️
 ===============================
 
-Full Stack Developer
+software arsitektur development
 --------------------
 
 saya senang menciptkan sesuatu untuk mempermudah pekerjaan orang lain, menjadi suatu kenikmatan jika apa yang saya buat bisa bermanfaat bagi banyak orang.
